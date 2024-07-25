@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fazliddin</h1>
 <h3 align="center">A Backend developer from Tashkent</h3>
-
-
-- 🌱 I’m currently learning **Django,python,php**
 
 - 👨‍💻 All of my projects are available at [fazliddindev.uz](fazliddindev.uz)
 
