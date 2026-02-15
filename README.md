@@ -1,2 +1,2 @@
 Fazliddin
-Software Engeenier
+Junior PHP/Laravel Developer
