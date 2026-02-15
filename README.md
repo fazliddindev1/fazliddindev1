@@ -1,1 +1,2 @@
 Fazliddin
+Software Engeenier
